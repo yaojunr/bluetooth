@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothAdapter</string>
+
+    <string name="action_setting">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn Off</string>
+    <string name="visible">Get Visible</string>
+    <string name="list">List Devices</string>
+</resources>
